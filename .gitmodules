@@ -1,0 +1,6 @@
+[submodule "src/WebviewAppShared/wwwroot/webgl-water"]
+	path = src/WebviewAppShared/wwwroot/webgl-water
+	url = https://github.com/evanw/webgl-water.git
+[submodule "src/WebviewAppShared/wwwroot/water"]
+	path = src/WebviewAppShared/wwwroot/water
+	url = https://github.com/robertuk/webgl-water.git
